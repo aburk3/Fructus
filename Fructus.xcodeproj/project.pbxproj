@@ -12,6 +12,7 @@
 		D9021B962743E8AD00E4D7A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9021B952743E8AD00E4D7A5 /* Assets.xcassets */; };
 		D9021B992743E8AD00E4D7A5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9021B982743E8AD00E4D7A5 /* Preview Assets.xcassets */; };
 		D918C0E72747CE860052DD17 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D918C0E62747CE850052DD17 /* FruitCardView.swift */; };
+		D918C0E92747D1840052DD17 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D918C0E82747D1840052DD17 /* StartButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		D9021B952743E8AD00E4D7A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9021B982743E8AD00E4D7A5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D918C0E62747CE850052DD17 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		D918C0E82747D1840052DD17 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				D918C0E62747CE850052DD17 /* FruitCardView.swift */,
+				D918C0E82747D1840052DD17 /* StartButtonView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D918C0E72747CE860052DD17 /* FruitCardView.swift in Sources */,
+				D918C0E92747D1840052DD17 /* StartButtonView.swift in Sources */,
 				D9021B942743E8AD00E4D7A5 /* ContentView.swift in Sources */,
 				D9021B922743E8AD00E4D7A5 /* FructusApp.swift in Sources */,
 			);
