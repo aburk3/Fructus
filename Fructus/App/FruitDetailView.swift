@@ -45,6 +45,7 @@ struct FruitDetailView: View {
                             .multilineTextAlignment(.leading)
                         
                         // LINK
+                        SourceLinkView()
                         
                     } //: VSTACK
                     .padding(.horizontal, 20)
